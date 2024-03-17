@@ -8,6 +8,11 @@ AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
+## Description
+
+```md
+A back-end database for an e-commerce website using MySQL2 and Sequelize packages to connect the Express.js API to the MySQL database. For each class of product, category and tag; users can test GET, POST, PUT and DELETE routes to display/read/change data in that database. 
+```
 
 ## Acceptance Criteria
 
