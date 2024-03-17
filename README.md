@@ -28,5 +28,5 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Screenshot
 
 ```md
-![alt text](image.png)
+![Image](assets/images.png)
 ```
