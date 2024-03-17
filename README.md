@@ -28,5 +28,5 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Screenshot
 
 ```md
-![image](https://github.com/shumaela/sh-Ecommerce/assets/147661185/1521390c-25da-48b9-b6e2-2fd4db87e793)
+![alt text](image.png)
 ```
