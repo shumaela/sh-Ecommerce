@@ -33,13 +33,13 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Screenshot
 
 ```md
-![image](https://github.com/shumaela/sh-Ecommerce/assets/147661185/9dc4099a-f637-438b-8955-b12561f9e34d)
+[Screenshot](https://github.com/shumaela/sh-Ecommerce/assets/147661185/9dc4099a-f637-438b-8955-b12561f9e34d)
 ```
 
 ## Links
 
 ```md
-https://github.com/shumaela/sh-Ecommerce
+[Repo Link](https://github.com/shumaela/sh-Ecommerce)
 
-https://drive.google.com/file/d/1hHNv1XuY9_n9PzmZ0Mm0r5ZMi4S3j18z/view
+[Walkthrough Video Link](https://drive.google.com/file/d/1hHNv1XuY9_n9PzmZ0Mm0r5ZMi4S3j18z/view)
 ```
